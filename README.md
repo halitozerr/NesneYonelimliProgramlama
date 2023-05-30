@@ -20,11 +20,12 @@ Bu repository, nesne yönelimli programlamaya (NYP) giriş yapmak isteyen yazıl
         - [Polimorfizm (Polymorphism)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-polimorfizm-polymorphism-%E2%84%B9%EF%B8%8F)
     - [Nesneler Arası İlişkiler](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-nesneler-aras%C4%B1-i%CC%87li%C5%9Fkiler-%E2%84%B9%EF%B8%8F)
         - [Inheritance (Kalıtım)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-kal%C4%B1t%C4%B1m-inheritance)
-        - [Implementation](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-association-ba%C4%9Flant%C4%B1)
-        - [Association (Bağlantı)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-dependency-ba%C4%9F%C4%B1ml%C4%B1l%C4%B1k)
-        - [Dependency (Bağımlılık)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-composition-bile%C5%9Fim)
+        - [Implementation](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-implementation)
+        - [Association (Bağlantı)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-association-ba%C4%9Flant%C4%B1)
+        - [Dependency (Bağımlılık)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-dependency-ba%C4%9F%C4%B1ml%C4%B1l%C4%B1k)
         - [Composition (Bileşim)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-composition-bile%C5%9Fim)
         - [Aggregation (İçerme)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-aggregation-i%CC%87%C3%A7erme)
+
 
 
 
