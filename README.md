@@ -9,21 +9,23 @@ Bu repository, nesne yönelimli programlamaya (NYP) giriş yapmak isteyen yazıl
 - [@linkedin](https://www.linkedin.com/in/mustafa-halit-ozer/)
 
 
-## Konular
 
- - [Sınıf Hiyerarşileri Nedir?](https://github.com/halitozerr/nesne-yonelimli-programlama)
- - [Nesne Yönelimli Programlama İlkeleri](https://github.com/halitozerr/nesne-yonelimli-programlama)
-    - [Soyutlama (abstraction)](https://github.com/halitozerr/nesne-yonelimli-programlama)
-    - [Kapsülleme (encapsulation)](https://github.com/halitozerr/nesne-yonelimli-programlama)
-    - [Miras (inheritance)](https://github.com/halitozerr/nesne-yonelimli-programlama)
-    - [Polimorfizm (Polymorphism)](https://github.com/halitozerr/nesne-yonelimli-programlama)
-- [Nesneler Arası İlişkiler](https://github.com/halitozerr/nesne-yonelimli-programlama)
-    - [Inheritance (Kalıtım)](https://github.com/halitozerr/nesne-yonelimli-programlama)
-    - [Implementation](https://github.com/halitozerr/nesne-yonelimli-programlama)
-    - [Association (Bağlantı)](https://github.com/halitozerr/nesne-yonelimli-programlama)
-    - [Dependency (Bağımlılık)](https://github.com/halitozerr/nesne-yonelimli-programlama)
-    - [Composition (Bileşim)](https://github.com/halitozerr/nesne-yonelimli-programlama)
-    - [Aggregation (İçerme)](https://github.com/halitozerr/nesne-yonelimli-programlama)
+## Konular
+ - [Nesne Yönelimli Programlama Nedir? ](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-nesne-y%C3%B6nelimli-programlama-nedir)
+    - [Sınıf Hiyerarşileri Nedir?](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-s%C4%B1n%C4%B1f-hiyerar%C5%9Fileri-nedir-%E2%84%B9%EF%B8%8F)
+    - [Nesne Yönelimli Programlama İlkeleri](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-nesne-y%C3%B6nelimli-programlama-i%CC%87lkeleri-%E2%84%B9%EF%B8%8F)
+        - [Soyutlama (abstraction)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-soyutlama-abstraction-%E2%84%B9%EF%B8%8F)
+        - [Kapsülleme (encapsulation)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-kaps%C3%BClleme-encapsulation-%E2%84%B9%EF%B8%8F)
+        - [Miras (inheritance)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-miras-inheritance-%E2%84%B9%EF%B8%8F)
+        - [Polimorfizm (Polymorphism)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-polimorfizm-polymorphism-%E2%84%B9%EF%B8%8F)
+    - [Nesneler Arası İlişkiler](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-nesneler-aras%C4%B1-i%CC%87li%C5%9Fkiler-%E2%84%B9%EF%B8%8F)
+        - [Inheritance (Kalıtım)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-kal%C4%B1t%C4%B1m-inheritance)
+        - [Implementation](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-association-ba%C4%9Flant%C4%B1)
+        - [Association (Bağlantı)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-dependency-ba%C4%9F%C4%B1ml%C4%B1l%C4%B1k)
+        - [Dependency (Bağımlılık)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-composition-bile%C5%9Fim)
+        - [Composition (Bileşim)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-composition-bile%C5%9Fim)
+        - [Aggregation (İçerme)](https://github.com/halitozerr/NesneYonelimliProgramlama/blob/main/README.md#-aggregation-i%CC%87%C3%A7erme)
+
 
 
 
